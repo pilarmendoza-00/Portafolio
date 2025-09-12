@@ -1,7 +1,0 @@
-# Resumen del proyecto
-
-Este proyecto se centra en el análisis de las variaciones de tasas publicadas por el Banco de México (Banxico) a través de su API, complementado con datos en Excel. Dependiendo de la periodicidad de la tasa (diaria, semanal o mensual), se recopilaron y procesaron los datos para calcular las diferencias entre cada periodo consecutivo. Esto permitió determinar los incrementos y decrementos tanto en valores absolutos como porcentuales.
-El objetivo fue identificar los principales incrementos y decrementos ocurridos entre 1 hasta 5 periodos consecutivos, permitiendo detectar patrones y momentos clave de alta volatilidad. 
-El flujo de trabajo incluyó la extracción automatizada de datos vía la API de Banxico, el uso de Excel para organizar y visualizar los resultados, y la identificación de los periodos anuales con los mayores cambios. De esta manera, el proyecto ofrece un panorama claro de los patrones de volatilidad a lo largo del tiempo y facilita la toma de decisiones informadas.
-
-Para más datalle revisa el [Script](https://github.com/pilarmendoza-00/Portafolio/blob/bc37131f2615c0ceeacae266a241a91911442191/Proyectos/Tasas%20y%20sobretasa/Tasas%20y%20sobretasas.ipynb)
