@@ -10,15 +10,15 @@ Soy Actuaria con experiencia en automatización de procesos, análisis de datos,
 
 *   **Lenguajes:** [Python, Google Apps Scripts (basado en Javascript para automatización en Google workspace), VBA, R, SOL(dominio de SELECTS, JOINSTy funciones de
 agregación; actualmente en formación para consultas más avanzadas)].
-*   **Herramientas:**  [Excel Avanzado, Tableau, Google Data Studio, Power BI (visualización de datos)]
+*   **Herramientas:**  [Excel Avanzado, Tableau, Google Data Studio, Power BI (visualización de datos)].
 *   **Otros:** [enfoque análitico, gestión de proyectos con enfoque en autogestión del tiempo, documentación técnica, comunicación efectiva, colaboración entre equipos multidisciplinarios, aprendizaje autónomo.]
 
 ## 📂 Mis Proyectos
 
 Aquí tienes algunos de mis proyectos destacados:
 
-  *   **Tasas y sobretasas:** [Este proyecto analiza la variación de tasas y sobretasas publicadas por Banxico utilizando su API y datos complementarios en Excel. Se extrajeron tasas con distintas periodicidades (diaria, semanal, mensual) y se calcularon sus diferencias absolutas y porcentuales entre periodos consecutivos.]
-    *   **Tecnologías:** [Python y excel]
+  *   **Tasas y sobretasas:** [Este proyecto analiza la variación de tasas y sobretasas publicadas por Banxico utilizando su API y datos complementarios en Excel. Se extrajeron tasas con distintas periodicidades (diaria, semanal, mensual) y se calcularon sus diferencias absolutas y porcentuales entre periodos consecutivos.]\
+    *   **Tecnologías:** [Python y excel]\
     *   **Enlace al Proyecto:** [Análisis de volatilidad para tasas y sobretasas](https://github.com/pilarmendoza-00/Portafolio/tree/2221cab0c4d606aa1d665ee4869c6bd662b26479/Proyectos/Tasas%20y%20sobretasa)
 
 *Nota: Actualmente me encuentro en proceso de subir, actualizar y documentat otros proyectos adicionales. Este portafolio se irá enriqueciendo progresivamente con más ejemplos de mi trabajo*
