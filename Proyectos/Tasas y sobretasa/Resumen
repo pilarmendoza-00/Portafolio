@@ -2,4 +2,5 @@ Este proyecto se centra en el análisis de las variaciones de tasas publicadas p
 El objetivo fue identificar los principales incrementos y decrementos ocurridos entre 1 hasta 5 periodos consecutivos, permitiendo detectar patrones y momentos clave de alta volatilidad. 
 El flujo de trabajo incluyó la extracción automatizada de datos vía la API de Banxico, el uso de Excel para organizar y visualizar los resultados, y la identificación de los periodos anuales con los mayores cambios. De esta manera, el proyecto ofrece un panorama claro de los patrones de volatilidad a lo largo del tiempo y facilita la toma de decisiones informadas.
 
-Script: https://github.com/pilarmendoza-00/Portafolio/blob/bc37131f2615c0ceeacae266a241a91911442191/Proyectos/Tasas%20y%20sobretasa/Tasas%20y%20sobretasas.ipynb
+Script: 
+https://github.com/pilarmendoza-00/Portafolio/blob/bc37131f2615c0ceeacae266a241a91911442191/Proyectos/Tasas%20y%20sobretasa/Tasas%20y%20sobretasas.ipynb
