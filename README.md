@@ -17,16 +17,16 @@ agregación; actualmente en formación para consultas más avanzadas)].
 
 Aquí tienes algunos de mis proyectos destacados:
 
-  *   **Tasas y sobretasas:** [Este proyecto analiza la variación de tasas y sobretasas publicadas por Banxico utilizando su API y datos complementarios en Excel. Se extrajeron tasas con distintas periodicidades (diaria, semanal, mensual) y se calcularon sus diferencias absolutas y porcentuales entre periodos consecutivos.]\
-    *   **Tecnologías:** [Python y excel]\
-    *   **Enlace al Proyecto:** [Análisis de volatilidad para tasas y sobretasas](https://github.com/pilarmendoza-00/Portafolio/tree/2221cab0c4d606aa1d665ee4869c6bd662b26479/Proyectos/Tasas%20y%20sobretasa)
+  *   **Tasas y sobretasas:** [Este proyecto analiza la variación de tasas y sobretasas publicadas por Banxico utilizando su API y datos complementarios en Excel. Se extrajeron tasas con distintas periodicidades (diaria, semanal, mensual) y se calcularon sus diferencias absolutas y porcentuales entre periodos consecutivos.]
+      *   **Tecnologías:** [Python y excel]
+      *   **Enlace al Proyecto:** [Análisis de volatilidad para tasas y sobretasas](https://github.com/pilarmendoza-00/Portafolio/tree/2221cab0c4d606aa1d665ee4869c6bd662b26479/Proyectos/Tasas%20y%20sobretasa)
 
 *Nota: Actualmente me encuentro en proceso de subir, actualizar y documentat otros proyectos adicionales. Este portafolio se irá enriqueciendo progresivamente con más ejemplos de mi trabajo*
 ## 📚 Certificaciones y Cursos
 
-**[Certificado de análisis de datos de Google](https://www.credly.com/badges/9a97e825-c989-4010-ab01-2eafca42fdd5/linked_in_profile)**
-**[Tableau de la A a la Z: Domina Tableau en Data Science](https://www.udemy.com/certificate/UC-0a68bdfe-2182-4439-8f9d-44258eb604e0/)**
-
+* **[Certificado de análisis de datos de Google](https://www.credly.com/badges/9a97e825-c989-4010-ab01-2eafca42fdd5/linked_in_profile)**
+* **[Tableau de la A a la Z: Domina Tableau en Data Science](https://www.udemy.com/certificate/UC-0a68bdfe-2182-4439-8f9d-44258eb604e0/)**
+* Cursos internos 
 
 ## 🔗 Conecta Conmigo
 
