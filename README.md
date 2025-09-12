@@ -1,4 +1,4 @@
-# Pilar Abigail Mendoza Alvarez - Portafolio Profesional
+# 💼 Pilar Abigail Mendoza Alvarez - Portafolio Profesional
 
 Este repositorio es mi portafolio personal de proyectos de Business Intelligence, automatización de procesos y análisis de datos, donde comparto scripts, modelos y ejemplos de mi trabajo
 
@@ -22,7 +22,7 @@ Aquí tienes algunos de mis proyectos destacados:
     *   **Enlace al Proyecto:** [Enlace a la demo o sitio web]
 
 *Nota: Actualmente me encuentro en proceso de subir, actualizar y documentat otros proyectos adicionales. Este portafolio se irá enriqueciendo progresivamente con más ejemplos de mi trabajo*
-## Certificaciones y Cursos
+## 📚 Certificaciones y Cursos
 
 **[Certificado de análisis de datos de Google](https://www.credly.com/badges/9a97e825-c989-4010-ab01-2eafca42fdd5/linked_in_profile)**
 **[Tableau de la A a la Z: Domina Tableau en Data Science](https://www.udemy.com/certificate/UC-0a68bdfe-2182-4439-8f9d-44258eb604e0/)**
