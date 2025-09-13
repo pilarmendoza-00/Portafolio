@@ -21,7 +21,8 @@ Aquí tienes algunos de mis proyectos destacados:
       *   **Tecnologías:** [Python y excel]
       *   **Enlace al Proyecto:** [Análisis de volatilidad para tasas y sobretasas](https://github.com/pilarmendoza-00/Portafolio/tree/2221cab0c4d606aa1d665ee4869c6bd662b26479/Proyectos/Tasas%20y%20sobretasa)
 
-*Nota: Actualmente me encuentro en proceso de subir, actualizar y documentat otros proyectos adicionales. Este portafolio se irá enriqueciendo progresivamente con más ejemplos de mi trabajo*
+*Nota: Actualmente me encuentro en proceso de subir, actualizar y documentar otros proyectos adicionales. Este portafolio se irá enriqueciendo progresivamente con más ejemplos de mi trabajo*
+
 ## 📚 Certificaciones y Cursos
 
 * **[Certificado de análisis de datos de Google](https://www.credly.com/badges/9a97e825-c989-4010-ab01-2eafca42fdd5/linked_in_profile)**
